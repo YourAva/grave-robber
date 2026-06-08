@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F87A6153-2EB4-4D49-922E-C0D21628E0FD}|grave-robber\\grave-robber.vcxproj|C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\grave-robber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F87A6153-2EB4-4D49-922E-C0D21628E0FD}|grave-robber\\grave-robber.vcxproj|solutionrelative:grave-robber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F87A6153-2EB4-4D49-922E-C0D21628E0FD}|grave-robber\\grave-robber.vcxproj|C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\grave-robber\\grave-robber.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F87A6153-2EB4-4D49-922E-C0D21628E0FD}|grave-robber\\grave-robber.vcxproj|solutionrelative:grave-robber\\grave-robber.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87A6153-2EB4-4D49-922E-C0D21628E0FD}|grave-robber\\grave-robber.vcxproj|C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\grave-robber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F87A6153-2EB4-4D49-922E-C0D21628E0FD}|grave-robber\\grave-robber.vcxproj|solutionrelative:grave-robber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\grave-robber\\main.cpp",
               "RelativeDocumentMoniker": "grave-robber\\main.cpp",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "grave-robber.hpp",
               "DocumentMoniker": "C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\grave-robber\\grave-robber.hpp",
               "RelativeDocumentMoniker": "grave-robber\\grave-robber.hpp",
               "ToolTip": "C:\\Users\\AvaLi\\Documents\\programming\\Maldev\\grave-robber\\grave-robber\\grave-robber.hpp",
               "RelativeToolTip": "grave-robber\\grave-robber.hpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-01T23:53:57.35Z",
               "EditorCaption": ""
